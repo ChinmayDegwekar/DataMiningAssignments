@@ -37,3 +37,9 @@ Hence the ratio also turned out to be same.
 4)(Additional observation)
   Instead of keeping constant 1M sample points, We experimented varying the samples  [100,1000,10000,100000,1000000]
  As the number of samples under consideration increases, the ratio values increases(highest for 1M)
+ 
+ 
+ Question 2:
+ a) Dimensions = 2 and k=1
+ 	number of inspections = 593
+	time = 80909 ms
