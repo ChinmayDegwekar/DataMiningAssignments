@@ -40,6 +40,8 @@ Hence the ratio also turned out to be same.
  
  
  Question 2:
- a) Dimensions = 2 and k=1
- 	number of inspections = 593
-	time = 80909 ms
+ We have done the part a (Dimensionality reduction). We also made appropriate changes to calcullate number of inspections.
+ a) R* tree :	 Dimensions = 2 and k=1
+ 		number of inspections = 593
+		time = 80909 ms
+ 
